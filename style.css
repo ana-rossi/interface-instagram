@@ -162,8 +162,9 @@ footer{
 @media (max-width: 650px) {
     body {
         background-color: #ffffff;
+        display: flex;
     }
-         display: flex;
+       
 
     .instagram-wrapper {
         width: 90%;
