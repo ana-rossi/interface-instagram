@@ -163,12 +163,7 @@ footer{
     body {
         background-color: #ffffff;
         display: flex;
-    }
-    
-    .app-download {
-        display: inline;
-    }   
-       
+    } 
 
     .instagram-wrapper {
         width: 90%;
@@ -177,11 +172,14 @@ footer{
         display:none;
     }
     .instagram-continue {
+        display: flex; 
         width: 100%;
     }
     .group {
         border: 1px solid transparent;
+        display: flex;
     }
+   
 
     footer {
         position: fixed;
