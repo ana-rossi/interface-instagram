@@ -166,7 +166,7 @@ footer{
     } 
     
     .app-download {
-        display: embutido;
+        display: inline;
     }
 
     .instagram-wrapper {
