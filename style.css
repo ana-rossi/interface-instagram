@@ -162,8 +162,12 @@ footer{
 @media (max-width: 650px) {
     body {
         background-color: #ffffff;
-        display: inline-block;
+        display: flex;
     }
+    
+    .app-download {
+        display: inline;
+    }   
        
 
     .instagram-wrapper {
