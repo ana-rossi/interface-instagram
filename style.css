@@ -163,6 +163,7 @@ footer{
     body {
         background-color: #ffffff;
     }
+         display: flex;
 
     .instagram-wrapper {
         width: 90%;
